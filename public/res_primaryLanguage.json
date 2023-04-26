@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi, I'm Carmen Villalobos! 👋😄",
+      "description": "I am an aspiring software engineer who decided to make the transition from Teaching to Technology. I am a recent graduate of the Full-Stack Development Program through San Diego State's Global Campus, and I am actively seeking Full-Stack or Back-End software engineering opportunities! I currently live in San Diego, CA, but I am open to remote, hybrid, or in person work. I prefer working with JavaScript, Python, and TypeScript, but I am willing to learn any programming languages or libraries that the job may require. Feel free to connect with me through email or LinkedIn.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Travel Booking Site",
+        "startDate": "2023",
+        "description": "A travel booking website where users can create their own account and book trips to a list of destinations.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -21,23 +21,35 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "To-Do List",
+        "startDate": "2023",
+        "description": "To-do List is a website where users can keep track of the tasks that they need to complete or have competed.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -45,19 +57,35 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "JavaScript Web Game",
+        "startDate": "2022",
+        "description": "A web game where users need to click on the moving square as many times as possible before the time runs out!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -65,53 +93,43 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Freelance",
+        "title": "Full-Stack Software Developer",
+        "years": "4/2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
+          "JavaScript",
           "REST API",
-          "RxJS",
-          "JavaScript",
+          "TypeScript",
+          "Python",
+          "SQL",
+          "JSX",
+          "Node.js",
+          "React",
+          "Express.js",
+          "Visual Studio Code",
+          "PostgreSQL",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "CSS 3",
+          "HTML 5"
         ]
       }
     ]
