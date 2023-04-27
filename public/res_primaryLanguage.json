@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi, I'm Carmen Villalobos! 👋😄",
-      "description": "I am an aspiring software engineer who decided to make the transition from Teaching to Technology. I am a recent graduate of the Full-Stack Development Program through San Diego State's Global Campus, and I am actively seeking Full-Stack or Back-End software engineering opportunities! I currently live in San Diego, CA, but I am open to remote, hybrid, or in person work. I prefer working with JavaScript, Python, and TypeScript, but I am willing to learn any programming languages or libraries that the job may require. Feel free to connect with me through email or LinkedIn.",
+      "description": "I am an aspiring software engineer who decided to make the transition from Teaching to Technology. I am a recent graduate of the Full-Stack Development Program through San Diego State's Global Campus, and I am actively seeking Full-Stack or Back-End software engineering opportunities! I currently live in San Diego, CA, but I am open to remote, hybrid, or in person work. I prefer working with JavaScript, Python, and TypeScript, but I am willing to learn any programming languages, libraries, or frameworks that the job may require. Feel free to connect with me through email or LinkedIn, and check out my projects on GitHub!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -15,10 +15,10 @@
         "startDate": "2023",
         "description": "A travel booking website where users can create their own account and book trips to a list of destinations.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/travel-booking-site/map.jpg",
+          "images/portfolio/travel-booking-site/airplane-view.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/carmenvillalobos/Milestone_Project_3",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -51,10 +51,10 @@
         "startDate": "2023",
         "description": "To-do List is a website where users can keep track of the tasks that they need to complete or have competed.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/to-do-list-site/ux-ui-designer.jpg",
+          "images/portfolio/to-do-list-site/todolist.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/carmenvillalobos/Milestone-Project-2",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -87,10 +87,10 @@
         "startDate": "2022",
         "description": "A web game where users need to click on the moving square as many times as possible before the time runs out!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/javascript-webgame/player-game.jpg",
+          "images/portfolio/javascript-webgame/phone-game.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/carmenvillalobos/mileStoneProject1",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -110,10 +110,10 @@
     "experience": [
       {
         "company": "Freelance",
-        "title": "Full-Stack Software Developer",
+        "title": "Full-Stack Software Engineer",
         "years": "4/2023 - present",
         "mainTech": [
-          "React"
+          
         ],
         "technologies": [
           "JavaScript",
