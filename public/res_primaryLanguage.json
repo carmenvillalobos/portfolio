@@ -109,9 +109,57 @@
     ],
     "experience": [
       {
+        "company": "Emakia",
+        "title": "Artificial Intelligence/Machine Learning Engineer Intern",
+        "years": "11/2023 - present",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+          "Artificial Intelligence",
+          "Machine Learning",
+          "Google Cloud Platform",
+          "Python",
+          "Node.js",
+          "Sentiment Analysis",
+          "Big Query"
+        ]
+      },
+      {
+        "company": "Social Media Start-Up",
+        "title": "Full-Stack Software Developer Intern",
+        "years": "11/2023 - present",
+        "mainTech": [
+
+        ],
+        "technologies": [
+          "Swift",
+          "SwiftUI",
+          "Figma",
+          "Xcode",
+          "Object-Oriented Programming",
+          "SQL",
+          "MySQL"
+        ]
+      },
+      {
+        "company": "Women Who Code | San Diego Network",
+        "title": "Technical Lead",
+        "years": "11/2023 - present",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+          "Object-Oriented Programming",
+          "Python",
+          "JavaScript",
+          "React.js"
+        ]
+      },
+      {
         "company": "Freelance",
-        "title": "Full-Stack Software Engineer",
-        "years": "4/2023 - present",
+        "title": "Full-Stack Software Developer",
+        "years": "4/2023 - 10/2023",
         "mainTech": [
           
         ],
