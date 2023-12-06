@@ -109,11 +109,58 @@
     ],
     "experience": [
       {
-        "company": "Lanza libre",
-        "title": "Ingeniera de software de pila completa",
-        "years": "4/2023 - presente",
+        "company": "Emakia",
+        "title": "Practicante de Ingeniería en Inteligencia Artificial/Aprendizaje Automático",
+        "years": "11/2023 - present",
         "mainTech": [
-      
+          
+        ],
+        "technologies": [
+          "Inteligencia Artificial",
+          "Aprendizaje Automático",
+          "Plataforma en la nube de Google",
+          "Python",
+          "Node.js",
+          "Análisis de los Sentimientos",
+          "Gran Consulta"
+        ]
+      },
+      {
+        "company": "Puesta en Marcha de Redes Sociales",
+        "title": "Practicante de Desarrollo de Software Full-Stack",
+        "years": "11/2023 - present",
+        "mainTech": [
+
+        ],
+        "technologies": [
+          "Swift",
+          "SwiftUI",
+          "Figma",
+          "Xcode",
+          "Programación Orientada a Objetos",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "company": "Women Who Code | Red de San Diego",
+        "title": "Líder Técnico",
+        "years": "11/2023 - present",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+          "Programación Orientada a Objetos",
+          "Python",
+          "JavaScript",
+          "React.js"
+        ]
+      },
+      {
+        "company": "Lanza Libre",
+        "title": "Desarrolladora de Software de Pila Completa",
+        "years": "4/2023 - 10/2023",
+        "mainTech": [
+          
         ],
         "technologies": [
           "JavaScript",
