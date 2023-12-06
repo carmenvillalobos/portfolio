@@ -34,6 +34,11 @@
           "level": "90"
         },
         {
+          "name": "SwiftUI",
+          "class": "devicon-swift-plain",
+          "level": "90"
+        },
+        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "90"
@@ -49,6 +54,11 @@
           "level": "75"
         },
         {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "90"
+        },
+        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
@@ -57,6 +67,16 @@
           "name": "Python",
           "class": "devicon-python-plain",
           "level": "65"
+        },
+        {
+          "name": "Google Cloud Platform",
+          "class": "devicon-googlecloud-plain",
+          "level": "90"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original",
+          "level": "90"
         },
         {
           "name": "PostgreSQl",
