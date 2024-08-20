@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "¡Hola, soy Carmen Villalobos! 👋😄",
-      "description": "Soy un ingeniero/desarrollador de software full-stack que decidió hacer la transición de la enseñanza a la tecnología. 👩🏻‍💻 Estoy buscando activamente un trabajo de tiempo completo en ingeniería de software Full-stack o Back-end. Actualmente vivo en San Diego, CA, pero estoy abierto al trabajo remoto, híbrido o presencial. Prefiero trabajar con los frameworks React, SwiftUI, Node.js y Express.js, pero estoy dispuesto a aprender cualquier lenguaje de programación, biblioteca o framework que el trabajo pueda requerir. ¡No dudes en conectarte conmigo por correo electrónico (carmvilla15@gmail.com) o LinkedIn y ver mis proyectos en GitHub!",
+      "description": "Soy una ingeniera/desarrolladora de software full-stack que decidió hacer la transición de la enseñanza a la tecnología. 👩🏻‍💻 Actualmente, estoy en busca de nuevas oportunidades en el campo del desarrollo de software para crecer en mi profesión. Vivo en San Diego, CA, pero estoy abierta a trabajos remotos, híbridos o presenciales. En mi trabajo actual, utilizo ASP.NET (C#, Core, MVC, Razor, Bootstrap) y Microsoft SQL Server, pero también tengo experiencia en JavaScript (React.js, Node.js, Express.js, TypeScript), Python, SQL (T-SQL), Swift/SwiftUI, SCSS, CSS, y HTML5. Sin embargo, estoy dispuesta a aprender cualquier lenguaje de programación, biblioteca o framework que el trabajo requiera. ¡No dudes en conectarte conmigo a través de mi correo electrónico (carmvilla15@gmail.com) o LinkedIn, y echa un vistazo a mis proyectos en GitHub!",
       "section_name": {
         "about": "Acerca de mí",
         "projects": "Proyectos",
@@ -109,28 +109,41 @@
     ],
     "experience": [
       {
-        "company": "Emakia",
-        "title": "Practicante de Ingeniería en Inteligencia Artificial/Aprendizaje Automático",
-        "years": "11/2023 - present",
+        "company": "Stars Therapy Services",
+        "title": "Desarrollador de Software Junior",
+        "years": "3/2024 - presente",
         "mainTech": [
           
         ],
         "technologies": [
-          "Inteligencia Artificial",
-          "Aprendizaje Automático",
-          "Plataforma en la nube de Google",
-          "Python",
-          "Node.js",
-          "Análisis de los Sentimientos",
-          "Gran Consulta"
+          "ASP.NET (C#, Core, MVC, Razor, Bootstrap)",
+          "JavaScript",
+          "SQL Server Management Studio",
+          "Visual Studio"
         ]
       },
       {
-        "company": "Puesta en Marcha de Redes Sociales",
-        "title": "Practicante de Desarrollo de Software Full-Stack",
-        "years": "11/2023 - present",
+        "company": "Women Who Code | Women Coders Inclusive Org",
+        "title": "Líder Técnico",
+        "years": "11/2023 - presente",
         "mainTech": [
-
+          
+        ],
+        "technologies": [
+          "Programación Orientada a Objetos",
+          "Python",
+          "JavaScript",
+          "CoderPad",
+          "LeetCode",
+          "Codewars"
+        ]
+      },
+      {
+        "company": "Start-Up de Redes Sociales",
+        "title": "Desarrollador de Software Full-Stack",
+        "years": "11/2023 - 6/2024",
+        "mainTech": [
+    
         ],
         "technologies": [
           "Swift",
@@ -142,22 +155,26 @@
         ]
       },
       {
-        "company": "Women Who Code | Red de San Diego",
-        "title": "Líder Técnico",
-        "years": "11/2023 - present",
+        "company": "Emakia",
+        "title": "Ingeniero de Inteligencia Artificial/Aprendizaje Automático",
+        "years": "11/2023 - 3/2024",
         "mainTech": [
           
         ],
         "technologies": [
-          "Programación Orientada a Objetos",
+          "Inteligencia Artificial",
+          "Aprendizaje Automático",
+          "Google Cloud Platform",
           "Python",
-          "JavaScript",
-          "React.js"
+          "Node.js",
+          "Análisis de Sentimientos",
+          "Big Query",
+          "Predicciones por Lotes"
         ]
       },
       {
-        "company": "Lanza Libre",
-        "title": "Desarrolladora de Software de Pila Completa",
+        "company": "Freelance",
+        "title": "Desarrollador de Software Full-Stack",
         "years": "4/2023 - 10/2023",
         "mainTech": [
           
@@ -179,5 +196,5 @@
           "HTML 5"
         ]
       }
-    ]
+    ]    
   }

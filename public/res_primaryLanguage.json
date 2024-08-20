@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi, I'm Carmen Villalobos! 👋😄",
-      "description": "I am full-stack software engineer/developer intern who decided to make the transition from teaching to technology.👩🏻‍💻  I am actively seeking for a Full-stack or Back-end software engineering full time job. I currently live in San Diego, CA, but I am open to remote, hybrid, or in person work. I prefer working with React, SwiftUI, Node.js, and Express.js frameworks, but I am willing to learn any programming language, library, or framework that the job may require. Feel free to connect with me through email (carmvilla15@gmail.com) or LinkedIn, and check out my projects on GitHub!",
+      "description": "I am full-stack software engineer/developer who decided to make the transition from teaching to technology.👩🏻‍💻  I am actively seeking for new opportunities within the software development space to help me grow within my profession. I currently live in San Diego, CA, but I am open to remote, hybrid, or in person work. I currently use ASP.NET (C#, Core, MVC, Razor, Bootstrap) and Microsoft SQL Server at my current job, but I am proficient in JavaScript (React.js, Node.js, Express.js, TypeScript), Python, SQL (T-SQL), Swift/SwiftUI, SCSS, CSS, and HTML5. However, I am willing to learn any programming language, library, or framework that the job may require. Feel free to connect with me through email (carmvilla15@gmail.com) or LinkedIn, and check out my projects on GitHub!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -109,26 +109,39 @@
     ],
     "experience": [
       {
-        "company": "Emakia",
-        "title": "Artificial Intelligence/Machine Learning Engineer Intern",
+        "company": "Stars Therapy Services",
+        "title": "Junior Software Developer",
+        "years": "3/2024 - present",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+          "ASP.NET (C#, Core, MVC, Razor, Bootstrap)",
+          "JavaScript",
+          "SQL Server Management Studio",
+          "Visual Studio"
+        ]
+      },
+      {
+        "company": "Women Who Code | Women Coders Inclusive Org",
+        "title": "Technical Lead",
         "years": "11/2023 - present",
         "mainTech": [
           
         ],
         "technologies": [
-          "Artificial Intelligence",
-          "Machine Learning",
-          "Google Cloud Platform",
+          "Object-Oriented Programming",
           "Python",
-          "Node.js",
-          "Sentiment Analysis",
-          "Big Query"
+          "JavaScript",
+          "CoderPad",
+          "LeetCode",
+          "Codewars"
         ]
       },
       {
         "company": "Social Media Start-Up",
-        "title": "Full-Stack Software Developer Intern",
-        "years": "11/2023 - present",
+        "title": "Full-Stack Software Developer",
+        "years": "11/2023 - 6/2024",
         "mainTech": [
 
         ],
@@ -142,17 +155,21 @@
         ]
       },
       {
-        "company": "Women Who Code | San Diego Network",
-        "title": "Technical Lead",
-        "years": "11/2023 - present",
+        "company": "Emakia",
+        "title": "Artificial Intelligence/Machine Learning Engineer",
+        "years": "11/2023 - 3/2024",
         "mainTech": [
           
         ],
         "technologies": [
-          "Object-Oriented Programming",
+          "Artificial Intelligence",
+          "Machine Learning",
+          "Google Cloud Platform",
           "Python",
-          "JavaScript",
-          "React.js"
+          "Node.js",
+          "Sentiment Analysis",
+          "Big Query",
+          "Batch Predictions"
         ]
       },
       {

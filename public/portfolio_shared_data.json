@@ -19,28 +19,23 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "ASP.NET",
+          "class": "devicon-csharp-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
+          "name": "Microsoft SQL Server",
+          "class": "devicon-microsoftsqlserver-plain",
+          "level": "90"
+        },
+        {
+          "name": "Visual Studio",
+          "class": "devicon-visualstudio-plain",
+          "level": "90"
         },
         {
           "name": "React",
           "class": "devicon-react-plain",
-          "level": "90"
-        },
-        {
-          "name": "SwiftUI",
-          "class": "devicon-swift-plain",
-          "level": "90"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
           "level": "90"
         },
         {
@@ -49,13 +44,18 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
         },
         {
-          "name": "Figma",
-          "class": "devicon-figma-plain",
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "60"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original",
           "level": "90"
         },
         {
@@ -69,23 +69,38 @@
           "level": "65"
         },
         {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "SwiftUI",
+          "class": "devicon-swift-plain",
+          "level": "90"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "90"
+        },
+        {
           "name": "Google Cloud Platform",
           "class": "devicon-googlecloud-plain",
           "level": "90"
         },
         {
-          "name": "Express.js",
-          "class": "devicon-express-original",
-          "level": "90"
-        },
-        {
           "name": "PostgreSQl",
           "class": "devicon-postgresql-plain",
-          "level": "60"
-        },
-        {
-          "name": "Node.js",
-          "class": "devicon-nodejs-plain",
           "level": "60"
         }
       ]
