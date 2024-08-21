@@ -92,7 +92,7 @@ class App extends Component {
                 window.$secondaryLanguageIconId
               )
             }
-            style={{ display: "inline" }}
+            style={{ display: "inline", marginRight: "30px" }}
           >
             <span
               className="iconify language-icon mr-5"
